@@ -8,7 +8,7 @@
 - 💬 Ask me about **games**
 
 - 📫 How to reach me **alicanarmtt@gmail.com**
-- 
+  
 - I've started learning Unity and C#. I'm sharing the projects I'm working on as I learn. Now, I'm getting ready to start working on a game that follows the  game development cycle. I'll begin sharing my step-by-step progress on GitHub this week.
 
 <h3 align="left">Connect with me:</h3>
