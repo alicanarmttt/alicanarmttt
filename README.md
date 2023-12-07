@@ -12,7 +12,7 @@
 
 - 🚀 I enjoy sharing my learning experiences and project developments on GitHub. Feel free to explore my repository to see the projects I've worked on while honing my coding skills!
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C#**,**.NET** and **ASP.NET**
 
 - 💬 Ask me about **Games**
 
