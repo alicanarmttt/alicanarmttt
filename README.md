@@ -5,16 +5,17 @@
 
 <h1 align="center">Hi 👋, I'm Alican Armut</h1>
 <h3 align="center">A Passionate Developer From Turkey</h3>
- - 👋 Hello! I'm a 4th-year Computer Engineering student at Manisa Celal Bayar University. Currently, I'm gaining valuable codding experience with my internship program. 
+
+ - 👋 Hello! I'm a 4th-year Computer Engineering student at Manisa Celal Bayar University. My coding journey began with game development using C#. During my long-term compulsory internship, I explored Windows Forms, C#, and .NET frameworks.  
 
 - 💻 My coding journey began with Unity game development using C#. Over time, I expanded my skills to include fundamental database concepts using SQL Server. Now, during my internship, I'm actively working on 
   Windows Form applications using C# and Visual Studio.
 
-- 🚀 I enjoy sharing my learning experiences and project developments on GitHub. Feel free to explore my repository to see the projects I've worked on while honing my coding skills!
+- 🚀 Currently, I'm focused on enhancing my skills in frontend development, with a particular interest in React. I've been working on various React projects, applying key concepts such as component structure, state management, and the use of Redux Toolkit.
 
-- 🌱 I’m currently learning **C#**,**.NET** and **ASP.NET**
+- 🌱 I’m currently learning React, JavaScript, HTML, and CSS.
 
-- 💬 Ask me about **Games**
+- 💬 Ask me about Frontend Development and React.
 
 - 📫 How to reach me **alicanarmtt@gmail.com**
   
