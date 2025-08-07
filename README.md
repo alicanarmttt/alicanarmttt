@@ -10,11 +10,11 @@
 
 - 💻  My coding journey began with Unity game development using C#. During my long-term compulsory internship, I expanded my skills to include Windows Forms, C#, and .NET frameworks. 
 
-- 🚀 Currently, I'm focused on enhancing my skills in frontend development, with a particular interest in React. I've been working on various React projects, applying key concepts such as component structure, state management, and the use of Redux Toolkit.
+- 🚀 Currently, I'm focused on enhancing my skills in full-stack development, with a particular interest in React. I've been working on various React projects, applying key concepts such as component structure, state management, and the use of Redux Toolkit.
 
-- 🌱 I’m currently learning React, JavaScript, HTML, and CSS.
+- 🌱 I’m currently learning React, Node.js, JavaScript, HTML, and CSS.
 
-- 💬 Ask me about Frontend Development and React.
+- 💬 Ask me about React.
 
 - 📫 How to reach me **alicanarmtt@gmail.com**
   
