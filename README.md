@@ -23,7 +23,7 @@
 <br>
 - Projeye deeee@gmail.com ve 123456 şifresiyle giriş yapıp hazır program şablonuyla giriş yapabilirsiniz.
 <br>
-- Projemin detayları için repomdaki <a href="https://github.com/alicanarmttt/fitness-app-public">Fitness-app-public-repomu</a>
+- Projemin detayları için <a href="https://github.com/alicanarmttt/fitness-app-public">Fitness-app-public-repomu</a>
  inceleyebilirsiniz.
 
 
