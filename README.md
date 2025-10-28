@@ -18,6 +18,13 @@
 
 - 📫 How to reach me **alicanarmtt@gmail.com**
   
+<h3>Son projemin canlı linki:</h3> https://fitness-app-frontend-nu.vercel.app/
+<br>
+<br>
+- Projeye deeee@gmail.com ve 123456 şifresiyle giriş yapıp hazır program şablonuyla giriş yapabilirsiniz.
+<br>
+- Projemin detayları için repomdaki <a href="https://github.com/alicanarmttt/fitness-app-public">Fitness-app-public-repomu</a>
+ inceleyebilirsiniz.
 
 
 <h3 align="left">Connect with me:</h3>
