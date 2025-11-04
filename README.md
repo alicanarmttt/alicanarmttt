@@ -25,7 +25,8 @@
 <br>
 - Projemin detayları için <a href="https://github.com/alicanarmttt/fitness-app-public">Fitness-app-public-repomu</a>
  inceleyebilirsiniz.
-
+<br> 
+Birkaç deneme sonrası Azure Altyapısı aktif duruma geçecektir.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
