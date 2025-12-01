@@ -6,13 +6,13 @@
 <h1 align="center">Hi 👋, I'm Alican Armut</h1>
 <h3 align="center">A Passionate Developer From Turkey</h3>
 
- - 👋 Hello! I'm a Computer Engineering Graduate from Manisa Celal Bayar University.
+ - 👋 Hello! I am a Computer Engineering graduate from Manisa Celal Bayar University.
 
-- 💻  My coding journey began with Unity game development using C#. During my long-term compulsory internship, I expanded my skills to include Windows Forms, C#, and .NET frameworks. 
+- 💻  My coding journey began with game development using Unity and C#; I later solidified my technical foundation with .NET and Windows Forms projects. 
 
-- 🚀 Currently, I'm focused on enhancing my skills in full-stack development, with a particular interest in React and Node.js. I've been working on various React-Node.js projects and mobile app with React Native, I am applying key concepts of full stack structure on mobile and web projects.
+- 🚀 Currently, I am advancing as a Full-Stack Developer, actively building projects within the React, React Native, and Node.js ecosystems. I deliver end-to-end solutions for both web and mobile by integrating MSSQL database architecture, Redux for state management, and GitHub Actions for CI/CD pipelines.
 
-- 🌱 I’m currently learning React, React-Native, Node.js.
+- 🌱 I am dedicated to deepening my architectural expertise in the modern JavaScript stack and building scalable applications.
 
 - 💬 Ask me about React.
 
