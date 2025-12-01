@@ -10,9 +10,9 @@
 
 - 💻  My coding journey began with Unity game development using C#. During my long-term compulsory internship, I expanded my skills to include Windows Forms, C#, and .NET frameworks. 
 
-- 🚀 Currently, I'm focused on enhancing my skills in full-stack development, with a particular interest in React. I've been working on various React projects, applying key concepts such as component structure, state management, and the use of Redux Toolkit.
+- 🚀 Currently, I'm focused on enhancing my skills in full-stack development, with a particular interest in React and Node.js. I've been working on various React-Node.js projects and mobile app with React Native, I am applying key concepts of full stack structure on mobile and web projects.
 
-- 🌱 I’m currently learning React, Node.js, JavaScript, HTML, and CSS.
+- 🌱 I’m currently learning React, React-Native, Node.js.
 
 - 💬 Ask me about React.
 
