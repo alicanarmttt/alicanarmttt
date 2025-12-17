@@ -10,15 +10,17 @@
 
 - 💻  My coding journey began with game development using Unity and C#; I later solidified my technical foundation with .NET and Windows Forms projects. 
 
-- 🚀 Currently, I am advancing as a Full-Stack Developer, actively building projects within the React, React Native, and Node.js ecosystems. I deliver end-to-end solutions for both web and mobile by integrating MSSQL database architecture, Redux for state management, and GitHub Actions for CI/CD pipelines.
+- 🚀 Currently, I am advancing as a Full-Stack Developer, actively building projects within the React, React Native, and Node.js ecosystems. I deliver end-to-end solutions for both web and mobile by integrating MSSQL/Postgre database architecture, Redux for state management, and GitHub Actions for CI/CD pipelines.
 
 - 🌱 I am dedicated to deepening my architectural expertise in the modern JavaScript stack and building scalable applications.
 
 - 💬 Ask me about React.
 
 - 📫 How to reach me **alicanarmtt@gmail.com**
-  
-<h3>Son projemin canlı linki:</h3> https://fitness-app-frontend-nu.vercel.app/
+<h3>Mobil Geliştirmede ilerlediğim Cocktail Projemin Son Hali: </h3>
+<br>
+https://github.com/alicanarmttt/Cocktail-App
+<h3>React-Fitness projemin canlı linki:</h3> https://fitness-app-frontend-nu.vercel.app/
 <br>
 <br>
 - Projeye deeee@gmail.com ve 123456 şifresiyle giriş yapıp hazır program şablonuyla giriş yapabilirsiniz.
