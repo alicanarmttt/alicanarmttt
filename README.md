@@ -14,12 +14,11 @@
 
 - 🌱 I am dedicated to deepening my architectural expertise in the modern JavaScript stack and building scalable applications.
 
-- 💬 Ask me about React.
-
 - 📫 How to reach me **alicanarmtt@gmail.com**
-<h3>Mobil Geliştirmede ilerlediğim Cocktail Projemin Son Hali: </h3>
+<h3>Google Play Store'da test sürecinde olan projemin özeti: </h3>
+<h5>(Test sürecine katılmak için iletişime geçebilirsiniz)</h2>
 <br>
-https://github.com/alicanarmttt/Cocktail-App
+https://github.com/alicanarmttt/Cocktail-Roulette-Showcase/tree/main
 <h3>React-Fitness projemin canlı linki:</h3> https://fitness-app-frontend-nu.vercel.app/
 <br>
 <br>
