@@ -16,6 +16,7 @@
 
 - 📫 How to reach me **alicanarmtt@gmail.com**
 <h3>Google Play Store'da test sürecinde olan projemin özeti: </h3>
+<h5>(Test sürecinde APK'yı indirerek deneyebilirsiniz.)</h2>
 <h5>(Test sürecine katılmak için iletişime geçebilirsiniz)</h2>
 <br>
 https://github.com/alicanarmttt/Cocktail-Roulette-Showcase/tree/main
