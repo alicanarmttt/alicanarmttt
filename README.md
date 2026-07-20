@@ -15,11 +15,22 @@
 - 🌱 I am dedicated to deepening my architectural expertise in the modern JavaScript stack and building scalable applications.
 
 - 📫 How to reach me **alicanarmtt@gmail.com**
-<h3>Google Play Store'da test sürecinde olan projemin özeti: </h3>
-<h5>(Test sürecinde APK'yı indirerek deneyebilirsiniz.)</h2>
-<h5>(Test sürecine katılmak için iletişime geçebilirsiniz)</h2>
+<h3>Google Play Store'da Yayında Olan Projem: Kokteyl Çarkı (Cocktail Roulette)</h3>
+<p>
+  Uçtan uca ürün geliştirme ve yayınlama süreçlerini deneyimlemek amacıyla sıfırdan tasarlayıp mağaza standartlarında canlıya aldığım mobil uygulamam. Mimarisinde <strong>React Native, Expo, Node.js, Redux Toolkit, Supabase ve Firebase</strong> entegre bir şekilde kurgulanmıştır. Süreç içerisinde veritabanı altyapısı MSSQL'den PostgreSQL'e taşınmış, kapalı test aşamaları ve çoklu dil optimizasyonları bizzat yönetilerek global mağaza erişimine açılmıştır.
+</p>
+<p>
+  <strong>Google Play'den İndirin:</strong> <a href="https://play.google.com/store/apps/details?id=com.alican.barmenroulette&pcampaignid=web_share">Kokteyl Çarkı Mağaza Sayfası</a><br>
+  <strong>Proje Showcase ve Detayları:</strong> <a href="https://github.com/alicanarmttt/Cocktail-Roulette-Showcase/tree/main">Cocktail Roulette GitHub Repo</a>
+</p>
 <br>
-https://github.com/alicanarmttt/Cocktail-Roulette-Showcase/tree/main
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.alican.barmenroulette&pcampaignid=web_share">
+    <img src="https://github.com/alicanarmttt/Cocktail-App-Backend/blob/main/Cocktail-App/docs/banner.png" width="500" alt="Cocktail Roulette Banner" />
+  </a>
+</p>
+<br>
+<br>
 <h3>React-Fitness projemin canlı linki:</h3> https://fitness-app-frontend-nu.vercel.app/
 <br>
 <br>
